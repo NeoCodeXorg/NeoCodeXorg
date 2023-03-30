@@ -1,4 +1,5 @@
-<img src="https://github.com/NeoCodeXorg/NeoCodeXorg/blob/main/logo.png?raw=true" width="50%" height="50%" align="center">
+
+<center> <img src="https://github.com/NeoCodeXorg/NeoCodeXorg/blob/main/logo.png?raw=true" width="50%" height="50%" align="center"> </center>
 
 <br>
 
@@ -111,3 +112,25 @@ Habilidades: Conhecimento e experiência em:
 
 Se você quiser saber mais sobre o seu trabalho ou tiver alguma dúvida, entre em contato.
 
+<br>
+
+***
+
+<br>
+
+<h1> Tecnlogias que Ultilizamos </h1>  
+
+- <img src="https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white" alt="Unity">
+
+- <img src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white" alt="C#">
+
+
+<h3> Motivos para Ultilizar a Unity </h3>
+
+<br>
+
+- **Multiplataforma:** A Unity é uma das melhores ferramentas multiplataforma disponíveis atualmente, permitindo que você desenvolva jogos para diferentes plataformas, como PC, Mac, consoles, dispositivos móveis, realidade virtual e aumentada, entre outros.
+
+- **Interface amigável:** A Unity é conhecida por sua interface amigável e fácil de usar, o que a torna uma ótima opção para desenvolvedores iniciantes e experientes. A interface da Unity permite que você crie rapidamente protótipos de jogos e trabalhe em equipe com eficiência.
+
+- **Grande biblioteca de ativos:** A Unity oferece uma grande biblioteca de ativos, como modelos 3D, texturas, animações e efeitos sonoros. Isso ajuda os desenvolvedores a economizar tempo e recursos ao criar seus jogos.
