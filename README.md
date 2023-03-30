@@ -1,6 +1,6 @@
-
+<h1 align="center">
 <center> <img src="https://github.com/NeoCodeXorg/NeoCodeXorg/blob/main/logo.png?raw=true" width="50%" height="50%" align="center"> </center>
-
+</h1>
 <br>
 
 <h1>NeoCodeX</h1>
